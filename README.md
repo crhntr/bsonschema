@@ -1,4 +1,4 @@
-# bsonschema
+# bsonschema [![Go Reference](https://pkg.go.dev/badge/github.com/crhntr/bsonschema.svg)](https://pkg.go.dev/github.com/crhntr/bsonschema)
 
 I had a complex document schema to maintain. It was rough. So this should help.
 
