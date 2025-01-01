@@ -3,7 +3,7 @@ module github.com/crhntr/bsonschema
 go 1.22
 
 require (
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 	go.mongodb.org/mongo-driver v1.14.0
 	golang.org/x/exp v0.0.0-20240325151524-a685a6edb6d8
 )
